@@ -38,8 +38,11 @@
     "experiments": {
       "typedRoutes": true
     },
-    "runtimeVersion": {
-      "policy": "sdkVersion"
-    }
+"runtimeVersion": {
+  "policy": "sdkVersion"
+},
+"extra": {
+  "eas": {
+    "projectId": "ec0ef0b3-b68e-4629-9cdc-3302d908cb9d"
   }
 }
