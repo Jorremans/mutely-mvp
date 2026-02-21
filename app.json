@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Mutely Social Silence",
-    "slug": "silence-groups-calm",
+    "slug": "mutely-mvp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -38,11 +38,13 @@
     "experiments": {
       "typedRoutes": true
     },
-"runtimeVersion": {
-  "policy": "sdkVersion"
-},
-"extra": {
-  "eas": {
-    "projectId": "ec0ef0b3-b68e-4629-9cdc-3302d908cb9d"
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ec0ef0b3-b68e-4629-9cdc-3302d908cb9d"
+      }
+    }
   }
 }
